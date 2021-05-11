@@ -1,0 +1,31 @@
+.loginBox{
+    border:2px solid black;
+   
+    width:500px;
+    height:400px;
+    text-align:center;
+    margin-left:38%;
+    margin-right:25%;
+    padding: 40px;
+
+}
+.loginWithGoogle{
+    padding: 10px;
+    
+    border:2px solid rgb(70, 66, 66);
+    border-radius:20px;
+    height:60px;
+    width:400px;
+    text-align:center;
+
+}
+
+.loginWithGoogle p{
+
+   font-size: 35px;
+   text-align:center;
+
+}
+.loginMain{
+    text-align:center;
+}
